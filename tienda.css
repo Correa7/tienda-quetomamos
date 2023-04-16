@@ -399,7 +399,7 @@ body{
         margin-top: 80px;
     }
 }
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 380px) {
 	.contenedor {
 		width: 90%;
 		display: grid;
